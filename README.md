@@ -1,6 +1,6 @@
 ## Nominatim
 
-_nominatim_ is a basic node module to handle geocoding and reverse geocoding via OpenStreetMap (OSM). It attempts to adhere to the Nominatim usage policy.
+_nominatim_ is a basic node module to handle geocoding and reverse geocoding via [OpenStreetMap](http://openstreetmap.org/) (OSM). It attempts to adhere to the Nominatim usage policy.
 
 ## Example
 
