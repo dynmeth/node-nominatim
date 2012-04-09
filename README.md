@@ -4,7 +4,7 @@ _nominatim_ is a basic node module to handle geocoding and reverse geocoding via
 
 ## Example
 
-    var nominatim = require('..');
+    var nominatim = require('nominatim');
 
 	nominatim.search({ q: 'Adelaide, 5000, South Australia, Australia'}, function(err, opts, results) {
 	  console.log(results);
